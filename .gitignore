@@ -1,0 +1,2 @@
+# Compiled Stan models cached by rstan_options(auto_write = TRUE)
+*.rds
